@@ -676,7 +676,7 @@ header{
  height: 120vh;
  width: 100vw;
   position: relative;
-  background: linear-gradient(rgba(0, 0 ,0, 0.5), rgba(0 ,0 ,0 ,0.5)) , url(/images/header.jpg) no-repeat;
+  background: linear-gradient(rgba(0, 0 ,0, 0.5), rgba(0 ,0 ,0 ,0.5)) , url(../images/header.jpg) no-repeat;
 background-size: cover;
 background-position: center;
 display: flex;
@@ -794,7 +794,7 @@ header .banner-logo img:hover{
     height: 700px;
     width: 100vw;
      position: relative;
-     background: linear-gradient(rgba(0, 0 ,0, 0.5), rgba(0 ,0 ,0 ,0.5)) , url(/images/header.jpg) no-repeat;
+     background: linear-gradient(rgba(0, 0 ,0, 0.5), rgba(0 ,0 ,0 ,0.5)) , url(../images/header.jpg) no-repeat;
    background-size: cover;
    background-position: center;
    display: flex;
@@ -1370,7 +1370,7 @@ padding: 25px;
 .featured-works{
   width: 100vw;
   height: 100vh;
-  background:linear-gradient(rgba(0, 0, 0, 0.738), rgba(0, 0, 0, 0.771)), url(/images/works-img-1.jpg) no-repeat  ;
+  background:linear-gradient(rgba(0, 0, 0, 0.738), rgba(0, 0, 0, 0.771)), url(../images/works-img-1.jpg) no-repeat  ;
   background-size: cover;
 }
 
@@ -2191,7 +2191,7 @@ display: none;
 }
 
 .video{
-  background:linear-gradient(rgba(0, 0, 0, 0.738), rgba(0, 0, 0, 0.771)), url(/images/video-img-1\ \(1\).jpg) center no-repeat  ;
+  background:linear-gradient(rgba(0, 0, 0, 0.738), rgba(0, 0, 0, 0.771)), url(../images/video-img-1\ \(1\).jpg) center no-repeat  ;
   background-size: cover;
   height: 100vh;
   width: 100vw;
@@ -2300,7 +2300,7 @@ font-size: 16px;
 
 
 .video-cont{
-background:linear-gradient(rgba(0, 0, 0, 0.738), rgba(0, 0, 0, 0.771)), url(/images/video-img-1\ \(1\).jpg)  no-repeat  ;
+background:linear-gradient(rgba(0, 0, 0, 0.738), rgba(0, 0, 0, 0.771)), url(../images/video-img-1\ \(1\).jpg)  no-repeat  ;
 background-size: cover;
 height: auto;
 width: 100vw;
@@ -2382,7 +2382,7 @@ font-family: var(--body-nunito);
 
 @media (max-width:920px) {
   .video{
-    background:linear-gradient(rgba(0, 0, 0, 0.738), rgba(0, 0, 0, 0.771)), url(/images/video-img-1\ \(1\).jpg) center no-repeat  ;
+    background:linear-gradient(rgba(0, 0, 0, 0.738), rgba(0, 0, 0, 0.771)), url(../images/video-img-1\ \(1\).jpg) center no-repeat  ;
     background-size: cover;
     height: 500px;
     width: 100vw;
@@ -2495,7 +2495,7 @@ font-family: var(--body-nunito);
   
   
   .video-cont{
-  background:linear-gradient(rgba(0, 0, 0, 0.738), rgba(0, 0, 0, 0.771)), url(/images/video-img-1\ \(1\).jpg)  no-repeat  ;
+  background:linear-gradient(rgba(0, 0, 0, 0.738), rgba(0, 0, 0, 0.771)), url(../images/video-img-1\ \(1\).jpg)  no-repeat  ;
   background-size: cover;
   height: 1100px;
   width: 100vw;
@@ -3037,7 +3037,7 @@ background-color: #ccc;
 .final-card{
   width: 100vw;
   height: auto;
-  background:linear-gradient(rgba(0, 0, 0, 0.922), rgba(0, 0, 0, 0.922)) , url(/images/services-shape-1\ \(1\).png)  no-repeat  ;
+  background:linear-gradient(rgba(0, 0, 0, 0.922), rgba(0, 0, 0, 0.922)) , url(../images/services-shape-1\ \(1\).png)  no-repeat  ;
   background-size: cover;
  
 }
@@ -3094,7 +3094,7 @@ background-color: #ccc;
   .final-card{
     width: 100vw;
     height: 1500px;
-    background:linear-gradient(rgba(0, 0, 0, 0.922), rgba(0, 0, 0, 0.922)) , url(/images/services-shape-1\ \(1\).png)  no-repeat  ;
+    background:linear-gradient(rgba(0, 0, 0, 0.922), rgba(0, 0, 0, 0.922)) , url(../images/services-shape-1\ \(1\).png)  no-repeat  ;
     background-size: cover;
    margin-right: 0;
   }
